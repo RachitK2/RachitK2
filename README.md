@@ -2,7 +2,7 @@
    <h1>Hey there, it's me Rachit Katiyar🍭 </h1>
 </div>
 
-- 3rd year Undergraduate at VNIT, Nagpur.
+- 4th year Undergraduate at VNIT, Nagpur.
 - I enjoy editing and graphic designing.
 - I have a keen interest in coding and learning new skills.
 <img src="https://imgur.com/osDsJrs.gif" height=400  width=600>
